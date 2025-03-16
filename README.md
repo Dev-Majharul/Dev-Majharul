@@ -1,8 +1,13 @@
 <h1 align="center">🚀 Welcome, I'm Md Majharul Islam Samir 👋</h1>
 <h3 align="center">Full Stack Web Dev & Designer | PHP, JS, Node, Python & TS</h3>
 
+---
+
+### **💻 Latest Activity**
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=F7B93E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cyberpunk+Tech+Enthusiast;Building+Next-Gen+Web+Apps">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Majharul&theme=react-dark&hide_border=true&bg_color=000000&color=ff0f7b&line=ff8c00&point=ffffff" />
 </p>
 
 ---
@@ -31,14 +36,7 @@
 🛠️ **[Cyberpunk Auth System](https://github.com/Dev-Majharul/Cyberpunk-Login)** – A futuristic login authentication UI.  
 ⚡ **[Dark Mode Web UI](https://github.com/Dev-Majharul/DarkMode-UI)** – A fully responsive UI with animated effects.  
 
----
 
-### **💻 Latest Activity**
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Majharul&theme=react-dark&hide_border=true&bg_color=000000&color=ff0f7b&line=ff8c00&point=ffffff" />
-</p>
 
 
 ---
