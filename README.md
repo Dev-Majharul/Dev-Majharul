@@ -21,9 +21,8 @@
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Majharul&theme=react-dark&hide_border=true&bg_color=000000&color=ff0f7b&line=ff8c00&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Majharul&theme=react-dark&hide_border=true&bg_color=000000&color=ff0f7b&line=ff8c00&point=ffffff" />
 </p>
-
 ---
 
 ### **🔮 Featured Projects**
@@ -35,9 +34,7 @@
 
 ### **💻 Latest Activity**
 <!--START_SECTION:activity-->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Majharul&theme=react-dark&hide_border=true&bg_color=000000&color=ff0f7b&line=ff8c00&point=ffffff" />
-</p>
+
 
 <!--END_SECTION:activity-->
 
