@@ -35,10 +35,11 @@
 
 ### **💻 Latest Activity**
 <!--START_SECTION:activity-->
-1. 🛠️ Pushed a new feature to **[Cyberpunk-Login](https://github.com/Dev-Majharul/Cyberpunk-Login)**
-2. 🚀 Deployed **Orbizen Cloud Storage**
-3. 🔧 Fixed UI glitches in **DarkMode-UI**
 <!--END_SECTION:activity-->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Majharul&theme=react-dark&hide_border=true&bg_color=000000&color=ff0f7b&line=ff8c00&point=ffffff" />
+</p>
+
 
 ---
 
