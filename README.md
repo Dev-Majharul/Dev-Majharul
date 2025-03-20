@@ -78,6 +78,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Majharul&custom_title=Neural%20Network%20Activity&bg_color=0D1117&color=00F6FF&line=F700FF&point=FFFFFF&area=true&area_color=00F6FF&hide_border=true" width="100%" />
 </div>
 
+!-- Add these two comment markers below the activity graph -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
 ---
 
 <h2 align="center">
